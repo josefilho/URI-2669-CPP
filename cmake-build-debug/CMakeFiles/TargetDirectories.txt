@@ -1,0 +1,3 @@
+/home/lofyl/Desktop/www/beecrowd/2669/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lofyl/Desktop/www/beecrowd/2669/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lofyl/Desktop/www/beecrowd/2669/cmake-build-debug/CMakeFiles/2669.dir
