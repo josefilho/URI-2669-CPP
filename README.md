@@ -70,5 +70,5 @@ Não é necessário instalação de bibliotecas adicionais além das já existen
 
 Feito com ❤️ por Jose Carlos. 👋🏼 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/twitter/url?color=7159c1&label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Flxblvk&logoColor=white)](https://twitter.com/lxblvk) [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Jose%20Carlos-7159c1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tgmarinho/) 
+[![Twitter Badge](https://img.shields.io/twitter/url?color=7159c1&label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Flxblvk&logoColor=white)](https://twitter.com/lxblvk) [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Jose%20Carlos-7159c1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filhojosecs/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Jose%20Carlos-7159c1?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iamjose.filho@gmail.com)](mailto:iamjose.filho@gmail.com)
